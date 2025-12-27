@@ -1,4 +1,4 @@
-# Machine Learning Practice Project – Customer Purchase Value
+# Machine Learning Project – Customer Purchase Value
 
 ## Overview
 This project focuses on building an end-to-end machine learning workflow to estimate customer purchase value using multi-session behavioral data collected across digital touchpoints.
